@@ -16,3 +16,7 @@ Instalar o MongoDB através do Docker:
 > docker run --name nodemongoapi -p 27017:27017 -d -t mongo
 
 Mais informações: https://hub.docker.com/_/mongo
+
+### Execução da API
+
+Executar comando npm run start para rodar a aplicação.
